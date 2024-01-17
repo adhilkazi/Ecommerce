@@ -1,0 +1,101 @@
+@media only screen and (max-width: 600px) {
+    .med-ul{
+     margin-right: 200px;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .med-bt-1{
+     margin-top: 10px;
+    }
+    .bg-img{
+      margin-left:-120px;
+      max-width: 500px;
+      padding: 10px;
+    }
+    .hide-sc{display: none;
+
+    }
+    .btn-med-2{
+      width: 250px !important;
+      font-size: xx-large;
+      padding: 0%;
+     
+    }
+    .med-text{
+      padding: 50px;
+      font-size: 20px;
+    }
+    .pernt{
+      display:block;}
+    .med-main{
+
+      padding: 100px;
+      
+    }
+      
+
+      
+   
+    .pernt-one{
+      display:block;
+      
+
+    }
+    .child{
+      display: flex;
+      justify-content: center;
+      width: 350px;
+      padding: 10px;
+      
+
+    }
+    .med-nev{
+      position: unset;
+    }
+    .text-1{
+      padding: 10px;
+      font-size: 60px;
+      margin-top: -20px;
+    }
+    .med-crs{
+      max-width: 300px !important;
+    }
+    .text-2 {
+      font-size: 25px;
+    }
+    
+      
+    
+    .foter-child{
+      display: block;
+      font-size: 20px;
+      font-weight: 500;
+      
+    }
+    .med-ft{
+     
+      
+      padding: 10px;
+      
+      
+      
+      
+     
+     
+    }
+    .cpt{
+      font-size: 30px;
+      letter-spacing: normal;
+    }
+    .ft-img-med{
+      width: 350px !important;
+      margin-left: -40px;
+    }
+    hr{
+      width: 300px;
+    }
+   
+    
+  }
+
+  

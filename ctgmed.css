@@ -1,0 +1,52 @@
+@media only screen and (max-width:600px){
+    .med-ctg-mn{
+        margin-left:-50px   ;
+       
+        
+        
+    }
+    .med-categ-sec{
+        display: flex;
+        flex-direction: column;
+        margin-left: -20px;
+      
+
+    }
+    .med-cate-btn-2{
+        width: 285px;
+        padding: 10px;
+    }
+    .med-cate-imge-2{
+      max-width: 250px;
+      margin-left: -30px;
+
+    }
+    .med-cate-ser-2{
+        width: 350px;
+        margin-left: -70px ;
+        
+    }
+    .med-cate-btn-3{
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .med-sec-three{
+        display: flex;
+        flex-direction: column;
+
+
+    }
+    .med-text-1{
+        width: 250px;
+        margin-left: -50px;
+    }
+    .med-hide{
+        display: none;
+    }
+    .med-cate-dvimg{
+       justify-content: center;
+       display: flex;
+       gap: 10px;
+        margin: 0%;
+    }
+}
